@@ -3,15 +3,12 @@
 
 Lectures
 ==================
-
-Our material is available for download, but we want so you will need to request access before downloading. Fill out this `form <https://forms.gle/4UJigTa36VAMyGheA>`_. We will review your responses shortly and grant you access to the drive folder via email.
-
-
 .. toctree::
    :maxdepth: 1
    :caption: Lecture Slides
-   :name: sec-lectures-intro
+   :name: sec-lectures
 
+   license
    lecture01
    lecture02
    lecture03
