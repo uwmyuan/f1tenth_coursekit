@@ -82,7 +82,7 @@ html_theme_options = {
 html_context = {
     "display_github": not is_i18n, # Integrate GitHub
     "github_user": "f1tenth", # Username
-    "github_repo": "f1tenth_doc", # Repo name
+    "github_repo": "f1tenth_coursekit", # Repo name
     "github_version": "master", # Version
     "conf_py_path": "/", # Path in the checkout to the docs root
 }
@@ -111,7 +111,7 @@ html_show_sphinx = True
 html_last_updated_fmt = '%b %d, %Y'
 
 # Output file base name for HTML help builder
-htmlhelp_basename = 'F1tenthdoc'
+htmlhelp_basename = 'F1TENTH_coursekit'
 
 # -- Options for reStructuredText parser ----------------------------------
 
@@ -124,7 +124,7 @@ file_insertion_enabled = False
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'F1tenth.tex', 'F1TENTH Documentation',
+  (master_doc, 'F1TENTH_coursekit.tex', 'F1TENTH Course Kit',
    'F1TENTH community', 'manual'),
 ]
 

@@ -1,8 +1,10 @@
 F1TENTH - course kit
 ================================================
-Welcome to the official course kit documentation of `F1TENTH <http://f1tenth.org/>`_. 
+Welcome to the official course kit of `F1TENTH <http://f1tenth.org/>`_. 
 
-Here, you will find all the information needed to get your own f1tenth course running at your institution. This site only contains course materials. Information on how to build the cars and get started can be found `here <http://f1tenth.org/>`_.
+Here, you will find all the information needed to get your own F1TENTH course running at your institution or learn how to utilize your F1TENTH vehicle to its fullest potential. This site only contains course materials (lectures and labs). Information on how to build the cars and get started on the hardware and software sides can be found `here <https://f1tenth.github.io/build.html>`_.
+
+.. image:: img/overview2.png
 
 There are three parts to this documentation.
 
@@ -10,7 +12,7 @@ There are three parts to this documentation.
 #. :ref:`Course Sessions <doc_lecture_intro>` contains lecture materials (recordings and slides) and information on the final project.
 #. :ref:`Assignments <doc_labs_intro>` has lab handouts and solutions.
 
-For files of the F1TENTH logo, see :ref:`Press <doc_logos>`
+.. For files of the F1TENTH logo, see :ref:`Press <doc_logos>`
 
 Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
 
@@ -28,8 +30,8 @@ in the top left corner.
           are looking for in the docs, help us make the documentation better
           by letting us know!
 
-          Submit an issue or pull request on the `GitHub repository
-          <https://github.com/kimnluong/f1tenth_doc>`_.
+          Submit an issue on the `GitHub repository
+          <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
 
 The main documentation for the site is organized into the following sections:
 
@@ -45,14 +47,15 @@ The main documentation for the site is organized into the following sections:
 .. toctree::
    :maxdepth: 1
    :caption: Introduction
-   :name: sec-overview
+   :name: sec-introduction
 
-   overview/index
+   introduction/overview
+   introduction/syllabus
 
 .. toctree::
    :maxdepth: 1
    :caption: Course Sessions
-   :name: sec-lectures
+   :name: sec-course-sessions
 
    lectures/index
    lectures/final_project
@@ -60,23 +63,25 @@ The main documentation for the site is organized into the following sections:
 .. toctree::
    :maxdepth: 1
    :caption: Assignments
-   :name: sec-labs
+   :name: sec-assignments
 
    labs/index
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Press
-   :name: sec-press
+..
+  .. toctree::
+     :maxdepth: 1
+     :caption: Press
+     :name: sec-press
 
-   press/logos
+     press/logos
 
 .. toctree::
    :maxdepth: 1
    :caption: Support
    :name: sec-support-contact
 
-   contact
+   support/contact
+   support/acknowledgment
 
 
 .. Indices and tables
