@@ -1,13 +1,8 @@
-f1tenth - course kit
+F1TENTH - course kit
 ================================================
-
-TESTING
-
-Welcome to the official course kit documentation of `F1tenth <http://f1tenth.org/>`_. 
+Welcome to the official course kit documentation of `F1TENTH <http://f1tenth.org/>`_. 
 
 Here, you will find all the information needed to get your own f1tenth course running at your institution. This site only contains course materials. Information on how to build the cars and get started can be found `here <http://f1tenth.org/>`_.
-
-This is not a public documentation as it contains solutions to the labs.
 
 There are three parts to this documentation.
 
@@ -15,7 +10,7 @@ There are three parts to this documentation.
 #. :ref:`Course Sessions <doc_lecture_intro>` contains lecture materials (recordings and slides) and information on the final project.
 #. :ref:`Assignments <doc_labs_intro>` has lab handouts and solutions.
 
-For files of the f1tenth logo, see :ref:`Press <doc_logos>`
+For files of the F1TENTH logo, see :ref:`Press <doc_logos>`
 
 Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
 
@@ -26,7 +21,7 @@ The table of contents below and in the sidebar should let you easily access the
 documentation for your topic of interest. You can also use the search function
 in the top left corner.
 
-.. note:: F1tenth is an open source project developed by a community of
+.. note:: F1TENTH is an open source project developed by a community of
           researchers and students. The documentation team can always use your
           feedback and help to improve the tutorials and class reference. If
           you don't understand something, or cannot find what you
