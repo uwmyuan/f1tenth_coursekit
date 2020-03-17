@@ -2,17 +2,7 @@ F1TENTH - course kit
 ================================================
 Welcome to the official course kit documentation of `F1TENTH <http://f1tenth.org/>`_. 
 
-<<<<<<< HEAD
-Here, you will find all the information needed to get your own F1TENTH course running at your institution. This site only contains course materials. Information on how to build the cars and get started can be found `here <http://f1tenth.org/>`_.
-=======
-TESTING
-
-Welcome to the official course kit documentation of `F1tenth <http://f1tenth.org/>`_. 
-
 Here, you will find all the information needed to get your own f1tenth course running at your institution. This site only contains course materials. Information on how to build the cars and get started can be found `here <http://f1tenth.org/>`_.
->>>>>>> stable
-
-This is not a public documentation as it contains solutions to the labs.
 
 There are three parts to this documentation.
 

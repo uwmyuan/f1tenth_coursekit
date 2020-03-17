@@ -23,15 +23,9 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project
-<<<<<<< HEAD
 project = 'F1TENTH - Code'
 copyright = '2018-2020, F1TENTH community (CC-BY-NC-SA 4.0)'
 author = 'F1TENTH community'
-=======
-# project = 'F1tenth'
-# copyright = '2018-2020, f1tenth community (CC-BY-NC-SA 4.0)'
-# author = 'f1tenth community'
->>>>>>> stable
 
 # Version info for the project, acts as replacement for |version| and |release|
 # The short X.Y version
