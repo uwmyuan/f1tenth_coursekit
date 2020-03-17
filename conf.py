@@ -11,7 +11,7 @@ needs_sphinx = '1.3'
 
 # Sphinx extension module names and templates location
 sys.path.append(os.path.abspath('extensions'))
-extensions = ['gdscript', 'sphinx_tabs.tabs', 'sphinx.ext.imgmath']
+extensions = ['gdscript', 'sphinx_tabs.tabs', 'sphinx.ext.imgmath', 'sphinx.ext.todo']
 
 templates_path = ['_templates']
 
@@ -23,9 +23,15 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project
+<<<<<<< HEAD
 project = 'F1TENTH - Code'
 copyright = '2018-2020, F1TENTH community (CC-BY-NC-SA 4.0)'
 author = 'F1TENTH community'
+=======
+# project = 'F1tenth'
+# copyright = '2018-2020, f1tenth community (CC-BY-NC-SA 4.0)'
+# author = 'f1tenth community'
+>>>>>>> stable
 
 # Version info for the project, acts as replacement for |version| and |release|
 # The short X.Y version
@@ -104,6 +110,11 @@ html_css_files = [
 html_js_files = [
     'js/custom.js',
 ]
+
+# Hide copyright in footer
+html_show_copyright = True
+html_show_sphinx = True
+html_last_updated_fmt = '%b %d, %Y'
 
 # Output file base name for HTML help builder
 htmlhelp_basename = 'F1tenthdoc'
