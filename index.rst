@@ -8,9 +8,9 @@ Here, you will find all the information needed to get your own F1TENTH course ru
 
 There are three parts to this documentation.
 
-#. :ref:`Course Overview <doc_overview>` gives a brief overview of what the class is about and a snapshot of the materials that are presented. It also details the prerequisities needed and the syllabus.
-#. :ref:`Course Sessions <doc_lecture_intro>` contains lecture materials (recordings and slides) and information on the final project.
-#. :ref:`Assignments <doc_labs_intro>` has lab handouts and solutions.
+#. :ref:`Course Overview <doc_overview>` gives a brief overview of what the class is about and a snapshot of the materials that are presented. 
+#. :ref:`Course Sessions <doc_lecture_intro>` contains lecture materials (recordings and slides).
+#. :ref:`Assignments <doc_labs_intro>` has lab handouts, race information, and final project descriptions.
 
 .. For files of the F1TENTH logo, see :ref:`Press <doc_logos>`
 
@@ -35,15 +35,6 @@ in the top left corner.
 
 The main documentation for the site is organized into the following sections:
 
-.. 
-	.. toctree::
-..    :maxdepth: 1
-..    :caption: General
-..    :name: sec-general
-
-..    about/index
-
-
 .. toctree::
    :maxdepth: 1
    :caption: Introduction
@@ -58,14 +49,15 @@ The main documentation for the site is organized into the following sections:
    :name: sec-course-sessions
 
    lectures/index
-   lectures/final_project
 
 .. toctree::
    :maxdepth: 1
    :caption: Assignments
    :name: sec-assignments
 
-   labs/index
+   assignments/labs/index
+   assignments/races/index
+   assignments/final_project
 
 ..
   .. toctree::
