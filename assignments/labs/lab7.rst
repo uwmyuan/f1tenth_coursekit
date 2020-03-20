@@ -3,9 +3,42 @@
 
 Lab 7 - Motion Planning (RRT)
 =================================
+.. note:: This is a **GROUP** assignment.
 
-`Repo <https://github.com/f1tenth/f110_ros/tree/master/rrt>`_
+.. tip:: Before starting this lab, review the lectures on **RRT** to ensure you are familiar with the material.
 
-**Goals and Learning Outcomes**
-The goal of this lab assignment is to get you familiar with the various paradigms and uses of ROS and how it can be used to build robust robotic systems.
-ROS is a meta-operating system which simplifies inter-process communication between elements of a robot's perception planning and control systems.
+| **Goals:**
+| The goal of this lab is to provide you with tools that will help you in a head-to-head race on a race track. After finishing this lab, your car should be able to do something like `this <https://www.youtube.com/watch?v=llHCRqwIllM>`_.
+
+| **Learning Outcomes:**
+| The following fundamentals should be understood by the students upon completion of this lab:
+
+	* Motion Planning basic concepts.
+
+		* Configuration space vs. Workspace: you should understand the difference between configuration space and workspace, and the advantages and disadvantages of planning in each of them.
+		* Free space vs. Obstacle space: you should understand the difference between free space and obstacle space.
+		* Occupancy grids and Costmaps: you should understand what occupancy grids and costmaps are, how to use them, and how to create them.
+
+	* Motion Planning algorithms. You should understand the basic ideas of these following planning algorithms, their advantages and disadvantages, and when to use them.
+
+		* Grid-based search: Dijkstra’s, A*, and their variants
+		* Sampling based algorithms: RRT and its variants
+
+**Required Skills:** ROS, Python/C++
+
+**Allotted Time:** 1.5 week
+
+**Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/rrt>`_
+
+| **Deliverables:**
+| Submit the following as ``groupnumber_lab7.zip`` (replace ``number`` with your group number)
+	
+	#. Your solutions to two problems as a pdf file.
+	#. Your RRT package by the name of by the name of ``groupnumber_rrt_lab``. **Make sure it compiles before you submit after changing the package name.**
+
+		#. If you’re using any libraries, include a list of dependencies in a readme file, also include the instructions to install them.
+
+
+.. raw:: html
+
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1WhMGMSgIPCnXqsFap2ZtlTrTeKXJj1vZ/preview" width="640" height="480"></iframe>
