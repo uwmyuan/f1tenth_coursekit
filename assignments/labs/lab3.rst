@@ -23,10 +23,10 @@ Lab 3 - Wall Following
 **Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/wall_follow>`_
 
 | **Deliverables:**
-| Submit the following as ``studentname.zip`` (replace ``studentname`` with your name)
+| Submit the following as ``studentname_lab3.zip`` (replace ``studentname`` with your name)
 
 	#. Your package named ``studentname_wallfollow.zip`` including the wall following node. **Make sure it compiles before you submit after changing the package name.**
-	#. Make a youtube video of wall following around the Levine Loop in the simulator add this link to a text file named ``studentname_wallfollow_video.txt``
+	#. Make a youtube video of wall following around the Levine Loop in the simulator add this link to a text file named ``studentname_lab3_video.txt``
 
 .. raw:: html
 

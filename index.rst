@@ -56,8 +56,9 @@ The main documentation for the site is organized into the following sections:
    :name: sec-assignments
 
    assignments/labs/index
-   assignments/races/index
    assignments/final_project
+   assignments/races/index
+   assignments/grading
 
 ..
   .. toctree::

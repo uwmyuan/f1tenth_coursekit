@@ -27,7 +27,7 @@ Lab 1 - Intro to ROS
 **Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/ros_lab>`_
 
 | **Deliverables:**
-| Submit the following as ``studentname.zip`` (replace ``studentname`` with your name)
+| Submit the following as ``studentname_lab1.zip`` (replace ``studentname`` with your name)
 
 	#. Pdf with answers filled in. (the source LaTex files are provided)
 	#. A ROS Package by the name of ``studentname_roslab`` 
