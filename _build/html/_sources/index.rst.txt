@@ -1,33 +1,23 @@
-F1TENTH - course kit
+F1TENTH - Learn Documentation
 ================================================
-Welcome to the official course kit of `F1TENTH <http://f1tenth.org/>`_! 
 
-Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential and/or find all the information needed to get your own F1TENTH course running at your institution. 
+Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential.
 
-.. note:: This site only contains course materials (lectures and labs). Information on how to build the cars and get started on the hardware and software sides can be found on the `Build Page <https://f1tenth.github.io/build.html>`_.
+.. important::
+  
+  #. If you want to immediately start learning how to utilize the F1TENTH Autonomous Vehicle System in a weekend, head over to :ref:`Crash Course <doc_crashcourse_intro>`.
+  #. If you want to get to all the nitty gritty details and learn more about the F1TENTH Autonomous Vehicle System in depth, head over to :ref:`Full Course Overview <doc_overview>`.
+
 
 .. image:: img/overview2.png
   :align: center
 
-There are three parts to this documentation.
 
-#. :ref:`Course Overview <doc_overview>` gives a brief overview of what the class is about. 
-#. :ref:`Course Sessions <doc_lecture_intro>` contains lecture materials .
-#. :ref:`Assignments <doc_labs_intro>` has labs, final project description, and races information.
+..
+  **F1TENTH Welcome Video**
+    .. raw:: html
 
-Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
-
-.. image:: img/add-to-slack.png
-   :target: https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTUs
-
-**F1TENTH Welcome Video**
-  .. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The table of contents below and in the sidebar should let you easily access the
-documentation for your topic of interest. You can also use the search function
-in the top left corner.
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. note:: F1TENTH is an open source project developed by a community of
           researchers and students. The documentation team can always use your
@@ -39,11 +29,25 @@ in the top left corner.
           Submit an issue on the `GitHub repository
           <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
 
+The table of contents below and in the sidebar should let you easily access the
+documentation for your topic of interest. You can also use the search function
+in the top left corner.
+
 The main documentation for the site is organized into the following sections:
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Introduction
+   :maxdepth: 1
+   :caption: Crash Course
+   :name: sec-crash-course
+
+   crash_course/intro
+   crash_course/session1/session1
+   crash_course/session2/session2
+   crash_course/session3/session3
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Full Course Overview
    :name: sec-introduction
 
    introduction/overview
@@ -51,14 +55,14 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Course Sessions
+   :caption: Full Course Sessions
    :name: sec-course-sessions
 
    lectures/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Assignments
+   :caption: Full Course Assignments
    :name: sec-assignments
 
    assignments/labs/index
