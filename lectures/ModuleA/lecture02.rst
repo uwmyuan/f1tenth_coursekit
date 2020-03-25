@@ -30,12 +30,12 @@ Lecture 2 - Automatic Emergency Braking
 
 		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTKTwmA1KYrfJjxzR5QHm8Q8ov7VQGpIyn8wg3SesP20jm-2Z_p0aykecAd1mXxV4CiyWOeLYSNSb8L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Video:**
+.. **Video:**
 
 	.. raw:: html
 
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+.. **Links to additional resources:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

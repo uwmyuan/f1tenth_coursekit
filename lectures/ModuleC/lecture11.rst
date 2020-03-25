@@ -1,7 +1,7 @@
 .. _doc_lecture11:
 
 
-Lecture 12 - Localization: Particle Filters
+Lecture 11 - Localization: Particle Filters
 =============================================
 
 **Overview:** 

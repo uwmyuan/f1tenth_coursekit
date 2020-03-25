@@ -8,8 +8,8 @@ Lecture 3 - Rigid Body Transformation
 	A point in the real world can be defined in different ways from different perspectives. If the lidar, which is attached to a moving vehicle, detects an obstacle, we might want to know the obstacle's position in the real world. As the vehicle traverses the environment to create a map of the environment, the algorithm on the vehicle is actually creating multiple submaps and then tying all these submaps together and creating one global solution. In both of these applications, we will need to understand and use reference frames and frame transformations. This lecture will shed light on these two topics.
 
 **Topics Covered:**
-	-	Coordinate Frames and Transformations
-	-	Reference Frames and Rigid Body Transformations
+	-	Coordinate Frames and Reference Frames
+	-	Rigid Body Transformations
 	-	Frames and Transformations in ROS
 
 **Slides:**
@@ -18,7 +18,7 @@ Lecture 3 - Rigid Body Transformation
 
 		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQQhIoepwcijdxhWZXgYIIaofFuv4sG5oIu0BwYFP3vgEH-a-Iptkzk6ox29FmoHMMBVyuoRsQbi2qQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Video:**
+.. **Video:**
 
 	.. raw:: html
 

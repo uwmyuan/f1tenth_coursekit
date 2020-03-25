@@ -3,7 +3,7 @@
 
 Course Overview
 ==================
-F1TENTH is a fun, fast-paced, and flexible course that teaches the foundation of **Autonomy**: 
+F1TENTH is a fun, fast-paced, and flexible course that teaches the foundations of **Autonomy**: 
 
 	* Perception
 	* Planning
@@ -24,6 +24,9 @@ This course is an integration of the concepts above and is not intended to be a 
 	* Programming skills (preferably C++ or Python)
 
 
+**Overview:**
+
 .. raw:: html
 
 	<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vRktaQoxypv_Wn-ldd-JpESTjLFWw6u1ZOx4lDqJSFeNksLxnHB520pMDKgYux7qs-ukpGgGl1esOlU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+

@@ -24,18 +24,20 @@ Lecture 1 - Introduction to F1TENTH Autonomous Vehicle
 
 **Slides:**
 
-	.. raw:: html
+.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSFRBiaMrVQOg5djMs21V7ipa6ZFYOB_oD4issaDyJK5bejX2kSdeEINW4ZMi1ZHZ64Fuzh5kNV6cP0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSFRBiaMrVQOg5djMs21V7ipa6ZFYOB_oD4issaDyJK5bejX2kSdeEINW4ZMi1ZHZ64Fuzh5kNV6cP0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 		
-**Video:**
+.. **Video:**
 
 	.. raw:: html
 
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 **Links to additional resources:**
 	- `F1TENTH Main Website <http://f1tenth.org/>`_
-	- Piazza
+	- `Support Forum <http://f1tenth.org/forum.html>`_

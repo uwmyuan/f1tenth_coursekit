@@ -1,4 +1,4 @@
-.. _doc_lecture02:
+.. _doc_tutorial01:
 
 
 Tutorial 1: Using the F1TENTH Simulator
@@ -18,7 +18,7 @@ Tutorial 1: Using the F1TENTH Simulator
 		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTCytGWJ3wySnLxE6G_HeS6Zpj5h8qnyOcgkX451D2CaNeWeL_T37Sf97q-zOZEp7FrRiNfY4Fkurb0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-**Video:**
+.. **Video:**
 
 	.. raw:: html
 
@@ -27,3 +27,4 @@ Tutorial 1: Using the F1TENTH Simulator
 
 **Links to additional resources:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	- `How to install the simulator <https://f1tenth.readthedocs.io/en/stable/going_forward/simulation/index.html>`_

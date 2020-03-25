@@ -5,9 +5,15 @@ Lecture 5 - Car Building and VESC Tuning
 ===========================================
 
 **Overview:** 
-	This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
+	This lecture is more of open lab than an actual lecture. In this lecture, students form teams of 3-4, start to build the car, and tune the VESC.
 
-Information on building car here: https://f1tenth.github.io/build.html
+**Links to additional resources:**
+	- `Build Documentation <https://f1tenth.github.io/build.html>`_ (VESC Tuning instructions can be found under **Installing Firmware > 1. Configuring the VESC**)
+	- `Build Support Forum <http://f1tenth.org/forum.html>`_
+	- `Connect with other F1TENTH teams from around the world <https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTU>`_
+
+.. image:: img/car01.gif
+	:align: center
 
 ..
 	**Topics Covered:**

@@ -3,7 +3,7 @@
 
 Module A: Foundations of F1TENTH
 ========================================
-This first module goes over the materials that make up the foundation of F1TENTH. 
+The first module goes over the some of the basics required to understand and control the F1TENTH Autonomous Vehicle System. 
 
 
 .. toctree::

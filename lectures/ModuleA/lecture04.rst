@@ -28,7 +28,7 @@ Lecture 4 - Laplace Domain Dynamics & PID
 
 		<iframe width="700" height="500" src="https://drive.google.com/file/d/1g3U-akARqCCILx3gzxWkdHzq2RfQKjO4/preview" width="640" height="480"></iframe>
 
-**Video:**
+.. **Video:**
 
 	.. raw:: html
 
@@ -36,4 +36,4 @@ Lecture 4 - Laplace Domain Dynamics & PID
 
 
 **Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	- `Ziegler-Nichols method of tuning a PID controller <https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method>`_
