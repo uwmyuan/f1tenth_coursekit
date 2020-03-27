@@ -5,11 +5,11 @@ Lecture 18 - Vision: Detection and Pose Estimation II
 ======================================================
 
 **Overview:** 
-	This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
+	This lecture is the second lecture in the vision series.
 
 **Topics Covered:**
-	-	Why use a simulator?
-	-	How to install and use the F1TENTH simulator
+	-	Vision
+	-	April Tags
 
 **Associated Assignment:** 
 	* :ref:`Lab 8: Perception and Planning <doc_lab8>`
@@ -20,7 +20,8 @@ Lecture 18 - Vision: Detection and Pose Estimation II
 
 		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vS_Vv-6YvQkRIcTuRS4gGngosVTk43Lahsuju-2kPBDkGUbGFH_3B3UI-S-T7QIq_-wtqkt4yyqUje1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 		
-..**Video:**
+..
+	**Video:**
 
 	.. raw:: html
 
@@ -29,5 +30,5 @@ Lecture 18 - Vision: Detection and Pose Estimation II
 
 
 
-**Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	**Links to additional resources:**
+		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

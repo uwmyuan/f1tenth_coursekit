@@ -7,7 +7,7 @@ Session 1
 .. note::
   We assume you already have Ubuntu and ROS running on your **Pit/Host** laptop.
 
-This session is sequential and builds on the sections before it so you must go through each section in order.
+In this session, you will learn how to use ROS, the Robot Operating System. This session is sequential and builds on the sections before it so you must go through each section in order.
 
 .. toctree::
    :maxdepth: 1
@@ -17,7 +17,10 @@ This session is sequential and builds on the sections before it so you must go t
    tutorials
    lab
 
-
 .. tip:: 
   | If you have any build and/or setup questions, post to the `forum <http://f1tenth.org/forum.html>`_.
   | If you have questions/suggestions for this documentation, `submit an issue <https://github.com/f1tenth/f1tenth_coursekit>`_ on github.
+
+.. image:: img/session01.gif
+	:align: center
+	:width: 300px

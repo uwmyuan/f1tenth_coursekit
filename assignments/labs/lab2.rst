@@ -1,8 +1,8 @@
 .. _doc_lab2:
 
 
-Lab 2 - Safety
-====================================
+Lab 2 - Automatic Emergency Braking
+======================================
 .. note:: This is an **INDIVIDUAL** assignment.
 
 .. tip:: Before starting this lab, review the lectures on **Automatic Emergency Braking** to ensure you are familiar with the material.
@@ -21,13 +21,9 @@ Lab 2 - Safety
 
 **Allotted Time:** 1 week
 
-**Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/safety>`_
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>`_ 
+|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
-| **Deliverables:**
-| Submit the following as ``studentname_lab2.zip`` (replace ``studentname`` with your name)
-
-	#. Your package including the safety node, named as ``studentname_safety``. **Make sure it compiles before you submit after changing the package name.**
-	#. Make a youtube video of teleop (manual driving) around the Levine loop (with your safety node on) in the simulator without significant false positives. Add this link to a text file named ``studentname_lab2_video.txt``
 
 .. raw:: html
 

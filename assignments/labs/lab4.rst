@@ -1,7 +1,7 @@
 .. _doc_lab4:
 
 
-Lab 4 - Reactive Methods (Follow the Gap)
+Lab 4 - Follow the Gap
 ===========================================
 .. note:: This is an **INDIVIDUAL** assignment and is part of :ref:`Race 1 <doc_race1>`.
 
@@ -19,14 +19,8 @@ Lab 4 - Reactive Methods (Follow the Gap)
 
 **Allotted Time:** 1 week
 
-**Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/reactive_methods>`_
-
-| **Deliverables:**
-| Submit the following as ``studentname_lab4.zip`` (replace ``studentname`` with your name)
-
-	#. Your package named ``studentname_reactive.zip`` including the ``reactive_gap_follow.py`` node,. **Make sure it compiles before you submit after changing the package name.**
-	#. Make a youtube video of your reactive method around the Levine Loop in the simulator. Add this link to a text file named ``studentname_reactive_video.txt``
-	#. Make a youtube video of it making its way around the custom map we will provide to you. Add this link to a text file named ``studentname_reactive_video.txt``
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>`_ 
+|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 .. raw:: html
 

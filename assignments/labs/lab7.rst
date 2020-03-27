@@ -28,16 +28,8 @@ Lab 7 - Motion Planning (RRT)
 
 **Allotted Time:** 1.5 week
 
-**Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/rrt>`_
-
-| **Deliverables:**
-| Submit the following as ``groupnumber_lab7.zip`` (replace ``number`` with your group number)
-	
-	#. Your solutions to two problems as a pdf file.
-	#. Your RRT package by the name of by the name of ``groupnumber_rrt_lab``. **Make sure it compiles before you submit after changing the package name.**
-
-		#. If you’re using any libraries, include a list of dependencies in a readme file, also include the instructions to install them.
-
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab7>`_ 
+|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 .. raw:: html
 

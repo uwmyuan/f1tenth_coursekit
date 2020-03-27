@@ -21,15 +21,8 @@ Lab 6 - Pure Pursuit
 
 **Allotted Time:** 1.5 week
 
-**Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/pure_pursuit>`_
-
-| **Deliverables:**
-| Submit the following as ``groupnumber_lab6.zip`` (replace ``number`` with your group number)
-
-	#. A ROS Package by the name of: ``groupnumber_pure_pursuit``. **Make sure it compiles before you submit after changing the package name.**
-	#. The map of Levine loop you made with Cartographer (``.pgm`` and ``.yaml``)
-	#. The recorded ``.csv`` file you’ve logged
-	#. You will be racing with your pure pursuit code in :ref:`Race 1 <doc_race1>`
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab6>`_ 
+|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 .. raw:: html
 

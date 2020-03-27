@@ -10,7 +10,7 @@ Labs 1-4 are **INDIVIDUAL** assignments and Labs 5-9 are **GROUP** assignments. 
 
 .. tip:: Set up a `Piazza page <https://piazza.com/>`_ for the class so students can ask questions freely.
 
-All the code for the labs can be found `here <https://github.com/f1tenth/f110_ros>`_. Each lab folder contains the skeleton code and supplemental code to be distributed to the students as well as the latex source files for the lab handout.
+All the code for the labs can be found on the `F1TENTH_labs Github Repository <https://github.com/f1tenth/f1tenth_labs>`_. Each lab folder contains the the latex source file for the handout, latex student solution template, and any skeleton codes required. 
 
 The sections below have information for each lab.
 
@@ -27,3 +27,6 @@ The sections below have information for each lab.
    lab7
    lab8
    solutions
+
+.. image:: img/lab02.gif
+   :align: center

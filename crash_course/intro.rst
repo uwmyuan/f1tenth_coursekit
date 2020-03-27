@@ -9,14 +9,16 @@ Introduction
 
 So you have a working F1TENTH vehicle, have a free weekend, and want to go from zero to race-hero ready. Our fun and informative lectures walk you through all the steps to get your car moving, driving straight, making turns, and taking loops. This gets you to the baseline autonomous operation of the vehicle. No prior knowledge is assumed and this is a course meant to make autonomous systems available and accessible.
 
+.. attention:: 
+	Some of the hardware in the videos and slides may be outdated but the same concepts apply to the current hardware. We are working to update these video.
+
 **Difficulty Level:** Intermediate-Advanced
 
-**Approximate Time Investment:** 1-2 days
+**Approximate Time Investment:** 1 week or 3 weekends
 
 **Skills Required:** Some programming experience (C++ or Python is ideal)
 
-.. note:: 
-	Some of the hardware in the videos and slides may be outdated but the same concepts apply to the current hardware. We are working to update these video.
+
 
 This crash course is divided into 3 sessions. Each session begins with lectures and ends with tutorials and a lab. After all, you will learn by doing and not just by watching.
 

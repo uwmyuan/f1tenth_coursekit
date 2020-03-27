@@ -4,7 +4,7 @@
 Lecture 15 - Race Prep
 ===================================
 
-Essentially office hours
+This lecture is open office hours.
 
 ..
 	**Overview:** 
@@ -27,5 +27,5 @@ Essentially office hours
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	**Links to additional resources:**
+		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

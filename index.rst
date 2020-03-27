@@ -1,23 +1,20 @@
 F1TENTH - Learn Documentation
 ================================================
 
-Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential.
+Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
+
+.. attention:: This is the documentation for the development (master) branch. Looking for the documentation of the current stable branch? `Have a look here <https://f1tenth-coursekit.readthedocs.io/en/stable/>`_.
+
+
+
+.. image:: img/overview2.png
+  :align: center
 
 .. important::
   
   #. If you want to immediately start learning how to utilize the F1TENTH Autonomous Vehicle System in a weekend, head over to :ref:`Crash Course <doc_crashcourse_intro>`.
   #. If you want to get to all the nitty gritty details and learn more about the F1TENTH Autonomous Vehicle System in depth, head over to :ref:`Full Course Overview <doc_overview>`.
 
-
-.. image:: img/overview2.png
-  :align: center
-
-
-..
-  **F1TENTH Welcome Video**
-    .. raw:: html
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. note:: F1TENTH is an open source project developed by a community of
           researchers and students. The documentation team can always use your

@@ -4,6 +4,8 @@
 Lecture 27 - Office Hours
 =========================================================
 
+Open office hours to prepare for the race.
+
 ..
 	**Overview:** 
 		This lecture is an introduction to the F1TENTH Autonomous Vehicle Community. We go over course logistics (grading, policies, syllabus), course support (teaching team, piazza), and expectations. We will end the lecture with a brief introduction to the world of autonomous racing. By the end of this lecture, you will have gotten your first taste of the exciting world of autonomous systems.
@@ -37,6 +39,6 @@ Lecture 27 - Office Hours
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
-	- `F1TENTH Main Website <http://f1tenth.org/>`_
-	- Piazza
+	**Links to additional resources:**
+		- `F1TENTH Main Website <http://f1tenth.org/>`_
+		- Piazza

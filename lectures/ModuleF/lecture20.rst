@@ -5,11 +5,11 @@ Lecture 20 - Raceline Optimization
 =====================================
 
 **Overview:** 
-	This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
+	This lecture goes over raceline optimization. 
 
 **Topics Covered:**
-	-	Why use a simulator?
-	-	How to install and use the F1TENTH simulator
+	-	Trajectory Generation
+	-	Genetic Algorithms
 
 **Slides:**
 
@@ -17,12 +17,13 @@ Lecture 20 - Raceline Optimization
 
 		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSvkoQlQ9jLHAmtW1SstORVbLhu1H_XopQ_Q49zQs-wyUzH_QSIQ5fmg9UlvVI1ZwJu1NtOHYRg5W4q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Video:**
+..
+	**Video:**
 
-	.. raw:: html
+		.. raw:: html
 
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	**Links to additional resources:**
+		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

@@ -5,7 +5,7 @@ Lecture 8 - Race Day 1
 ===========================================================================
 
 **Overview:** 
-	This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
+	Race day! 
 
 ..
 	**Topics Covered:**

@@ -28,6 +28,6 @@ Tutorial 2 - Working with the F1TENTH Simulator
 
 
 **Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f1tenth_labs/tree/master/f110_simulator>`_
 	- `How to install the simulator <https://f1tenth.readthedocs.io/en/stable/going_forward/simulation/index.html>`_
 	- `ROS Tutorials <http://wiki.ros.org/ROS/Tutorials>`_

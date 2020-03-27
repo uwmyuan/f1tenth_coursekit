@@ -30,13 +30,8 @@ Lab 8 - Perception and Planning
 
 **Allotted Time:** 1 week
 
-**Latex Source Code:** `Github Repository <https://github.com/f1tenth/f110_ros/tree/master/vision_latex>`_
-
-| **Deliverables:**
-| Submit the following as ``groupnumber_lab8.zip`` (replace ``number`` with your group number):
-
-	#. A youtube video of your detection and prediction pipeline. Add this link to a text file named ``groupnumber_lab8_video.txt``
-	#. A plot showing the mean and variance of the detected poses publishing frequency.
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab8/latex>`_ 
+|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 .. raw:: html
 
