@@ -1,4 +1,4 @@
-F1TENTH - Learn Documentation - *stable branch*
+F1TENTH - Course Documentation - *stable branch*
 ================================================
 
 Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
