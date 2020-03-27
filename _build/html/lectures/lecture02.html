@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Lecture 2 - Tutorial: Using the F1TENTH Simulator &mdash; F1TENTH - Code latest documentation</title>
+  <title>Lecture 2 - Automatic Emergency Braking &mdash; F1TENTH - Code latest documentation</title>
   
 
   
@@ -40,8 +40,8 @@
    
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Lecture 3 - Automatic Emergency Braking" href="lecture03.html" />
-    <link rel="prev" title="Lecture 1 - Introduction to F1TENTH Autonomous Vehicle" href="lecture01.html" />
+    <link rel="next" title="Tutorial 2 - Working with the F1TENTH Simulator" href="tutorial2.html" />
+    <link rel="prev" title="Tutorial 1: Using the F1TENTH Simulator" href="tutorial1.html" />
 
 
   <script type="text/javascript">
@@ -102,57 +102,64 @@
             
               <p class="caption"><span class="caption-text">Introduction</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../overview/index.html">Course Overview</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../overview/syllabus.html">Syllabus</a></li>
-</ul>
-</li>
+<li class="toctree-l1"><a class="reference internal" href="../introduction/overview.html">Course Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../introduction/syllabus.html">Syllabus</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Course Sessions</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="index.html">Lectures</a><ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="lecture01.html">Lecture 1 - Introduction to F1TENTH Autonomous Vehicle</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Lecture 2 - Tutorial: Using the F1TENTH Simulator</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture03.html">Lecture 3 - Automatic Emergency Braking</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture04.html">Lecture 4 - Working with the F1TENTH Simulator</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture05.html">Lecture 5 - Pose Representation and Coordinate Transforms</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture06.html">Lecture 6 - Laplace Domain Dynamics &amp; PID</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture07.html">Lecture 7 - VESC Tuning</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture08.html">Lecture 8 - Reactive Methods</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture09.html">Lecture 9 - Localization and Scan Matching</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture10.html">Lecture 10 - Localization: Scan Matching with Fast Correspondence Search</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture11.html">Lecture 11 - Using Google Cartographer</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture12.html">Lecture 12 - Particle Filters</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture13.html">Lecture 13 - Pure Pursuit</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture14.html">Lecture 14 - Project Proposal</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture15.html">Lecture 15 - Motion Planning</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture16.html">Lecture 16 - Vision: Detection and Pose Estimation</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture17.html">Lecture 17 - Raceline Optimization</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lecture18.html">Lecture 18 - Model Predictive Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture01.html">Lecture 1 - Introduction to F1TENTH Autonomous Vehicle</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="tutorial1.html">Tutorial 1: Using the F1TENTH Simulator</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="final_project.html">Final Project</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Lecture 2 - Automatic Emergency Braking</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="tutorial2.html">Tutorial 2 - Working with the F1TENTH Simulator</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="lecture03.html">Lecture 3 - Rigid Body Transformation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture04.html">Lecture 4 - Laplace Domain Dynamics &amp; PID</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture05.html">Lecture 5 - Car Building and VESC Tuning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture06.html">Lecture 6 - Reactive Methods: Follow the Gap &amp; Variants</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture07.html">Lecture 7 - Race Prep</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture08.html">Lecture 8 - Race Day 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture09.html">Lecture 9 - Localization: Scan Matching I</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture10.html">Lecture 10 - Localization: Scan Matching II</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture11.html">Lecture 12 - Localization: Particle Filters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture12.html">Lecture 12 - SLAM: Cartographer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture13.html">Lecture 13 - Pure Pursuit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture14.html">Lecture 14 - Motion Planning: RRT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture15.html">Lecture 15 - Race Prep</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture16.html">Lecture 16 - Race Day 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture17.html">Lecture 17 - Vision: Detection and Pose Estimation I</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lecture18.html">Lecture 18 - Vision: Detection and Pose Estimation II</a></li>
+</ul>
+</li>
 </ul>
 <p class="caption"><span class="caption-text">Assignments</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../labs/index.html">Labs</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab1.html">Lab 1 - Intro to ROS</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab2.html">Lab 2 - Safety</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab3.html">Lab 3 - Wall Following</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab4.html">Lab 4 - Follow the Gap</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab5.html">Lab 5 - Scan Matching</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab6.html">Lab 6 - Pure Pursuit</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab7.html">Lab 7 - Motion Planning (RRT)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../labs/lab8.html">Lab 8 - Perception and Planning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../assignments/labs/index.html">Labs</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab1.html">Lab 1 - Intro to ROS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab2.html">Lab 2 - Safety</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab3.html">Lab 3 - Wall Following</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab4.html">Lab 4 - Reactive Methods (Follow the Gap)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab5.html">Lab 5 - Scan Matching</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab6.html">Lab 6 - Pure Pursuit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab7.html">Lab 7 - Motion Planning (RRT)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/labs/lab8.html">Lab 8 - Perception and Planning</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="../assignments/races/index.html">Races</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/races/race1.html">Race 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/races/race2.html">Race 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assignments/races/race3.html">Race 3</a></li>
 </ul>
-<p class="caption"><span class="caption-text">Press</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../press/logos.html">Logos</a></li>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../assignments/final_project.html">Final Project</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Support</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../contact.html">Contact</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../support/contact.html">Contact</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../support/acknowledgment.html">Acknowledgements</a></li>
 </ul>
 
             
@@ -200,7 +207,7 @@
         
           <li><a href="index.html">Lectures</a> &raquo;</li>
         
-      <li>Lecture 2 - Tutorial: Using the F1TENTH Simulator</li>
+      <li>Lecture 2 - Automatic Emergency Braking</li>
     
     
 
@@ -225,21 +232,35 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="lecture-2-tutorial-using-the-f1tenth-simulator">
-<span id="doc-lecture02"></span><h1>Lecture 2 - Tutorial: Using the F1TENTH Simulator<a class="headerlink" href="#lecture-2-tutorial-using-the-f1tenth-simulator" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="lecture-2-automatic-emergency-braking">
+<span id="doc-lecture02"></span><h1>Lecture 2 - Automatic Emergency Braking<a class="headerlink" href="#lecture-2-automatic-emergency-braking" title="Permalink to this headline">¶</a></h1>
 <dl class="docutils">
 <dt><strong>Overview:</strong></dt>
-<dd>This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine.</dd>
+<dd>This lecture goes over the importance of safety when working with autonomous systems. When is a system “safe enough” to deploy? In this lecture, you will learn about how Automatic Emergency Braking (AEB) works in today’s vehicle as well as methods for gathering information about the outside world in order for the vehicle to respond to it appropriately. Once the vehicle has acquired real world data and reacts to its situation accordingly, how do we measure how “safe” the reaction is?</dd>
 <dt><strong>Topics Covered:</strong></dt>
 <dd><ul class="first last simple">
-<li>Why use a simulator?</li>
-<li>How to install and use the F1TENTH simulator</li>
+<li>Autonomatic Emergency Braking (AEB)</li>
+<li>Range Sensors for Autonomous Vehicles</li>
+<li>Working with Laser Scan Data</li>
+<li>Notions of Correctness</li>
+</ul>
+</dd>
+<dt><strong>Associated Tutorial:</strong></dt>
+<dd><div class="toctree-wrapper first last compound" id="sec-tutorial2">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="tutorial2.html">Tutorial 2 - Working with the F1TENTH Simulator</a></li>
+</ul>
+</div>
+</dd>
+<dt><strong>Associated Assignment:</strong></dt>
+<dd><ul class="first last simple">
+<li><a class="reference internal" href="../assignments/labs/lab2.html#doc-lab2"><span class="std std-ref">Lab 2: Introduction to ROS</span></a></li>
 </ul>
 </dd>
 </dl>
 <p><strong>Slides:</strong></p>
 <blockquote>
-<div><iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTCytGWJ3wySnLxE6G_HeS6Zpj5h8qnyOcgkX451D2CaNeWeL_T37Sf97q-zOZEp7FrRiNfY4Fkurb0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div></blockquote>
+<div><iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTKTwmA1KYrfJjxzR5QHm8Q8ov7VQGpIyn8wg3SesP20jm-2Z_p0aykecAd1mXxV4CiyWOeLYSNSb8L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div></blockquote>
 <p><strong>Video:</strong></p>
 <blockquote>
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></blockquote>
@@ -261,10 +282,10 @@
   
     <div class="rst-footer-buttons">
       
-        <a href="lecture03.html" class="btn btn-neutral float-right" title="Lecture 3 - Automatic Emergency Braking"/>Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="tutorial2.html" class="btn btn-neutral float-right" title="Tutorial 2 - Working with the F1TENTH Simulator"/>Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="lecture01.html" class="btn btn-neutral" title="Lecture 1 - Introduction to F1TENTH Autonomous Vehicle"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="tutorial1.html" class="btn btn-neutral" title="Tutorial 1: Using the F1TENTH Simulator"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -276,7 +297,7 @@
       Copyright &copy; 2018-2020, F1TENTH community (CC-BY-NC-SA 4.0) -->
     
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" /></a> Content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-    Last updated on Mar 17, 2020.
+    Last updated on Mar 23, 2020.
   </p>
 
  

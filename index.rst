@@ -1,27 +1,20 @@
-F1TENTH - course kit
+F1TENTH - Learn Documentation
 ================================================
-Welcome to the official course kit of `F1TENTH <http://f1tenth.org/>`_. 
 
-Here, you will find all the information needed to get your own F1TENTH course running at your institution or learn how to utilize your F1TENTH vehicle to its fullest potential. This site only contains course materials (lectures and labs). Information on how to build the cars and get started on the hardware and software sides can be found `here <https://f1tenth.github.io/build.html>`_.
+Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
+
+.. attention:: This is the documentation for the development (master) branch. Looking for the documentation of the current stable branch? `Have a look here <https://f1tenth-coursekit.readthedocs.io/en/stable/>`_.
+
+
 
 .. image:: img/overview2.png
+  :align: center
 
-There are three parts to this documentation.
+.. important::
+  
+  #. If you want to immediately start learning how to utilize the F1TENTH Autonomous Vehicle System in a weekend, head over to :ref:`Crash Course <doc_crashcourse_intro>`.
+  #. If you want to get to all the nitty gritty details and learn more about the F1TENTH Autonomous Vehicle System in depth, head over to :ref:`Full Course Overview <doc_overview>`.
 
-#. :ref:`Course Overview <doc_overview>` gives a brief overview of what the class is about and a snapshot of the materials that are presented. It also details the prerequisities needed and the syllabus.
-#. :ref:`Course Sessions <doc_lecture_intro>` contains lecture materials (recordings and slides) and information on the final project.
-#. :ref:`Assignments <doc_labs_intro>` has lab handouts and solutions.
-
-.. For files of the F1TENTH logo, see :ref:`Press <doc_logos>`
-
-Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
-
-.. image:: img/add-to-slack.png
-   :target: https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTUs
-
-The table of contents below and in the sidebar should let you easily access the
-documentation for your topic of interest. You can also use the search function
-in the top left corner.
 
 .. note:: F1TENTH is an open source project developed by a community of
           researchers and students. The documentation team can always use your
@@ -33,20 +26,25 @@ in the top left corner.
           Submit an issue on the `GitHub repository
           <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
 
+The table of contents below and in the sidebar should let you easily access the
+documentation for your topic of interest. You can also use the search function
+in the top left corner.
+
 The main documentation for the site is organized into the following sections:
-
-.. 
-	.. toctree::
-..    :maxdepth: 1
-..    :caption: General
-..    :name: sec-general
-
-..    about/index
-
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
+   :caption: Crash Course
+   :name: sec-crash-course
+
+   crash_course/intro
+   crash_course/session1/session1
+   crash_course/session2/session2
+   crash_course/session3/session3
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Full Course Overview
    :name: sec-introduction
 
    introduction/overview
@@ -54,32 +52,28 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Course Sessions
+   :caption: Full Course Sessions
    :name: sec-course-sessions
 
    lectures/index
-   lectures/final_project
 
 .. toctree::
    :maxdepth: 1
-   :caption: Assignments
+   :caption: Full Course Assignments
    :name: sec-assignments
 
-   labs/index
+   assignments/labs/index
+   assignments/final_project
+   assignments/races/index
+   assignments/grading
 
-..
-  .. toctree::
-     :maxdepth: 1
-     :caption: Press
-     :name: sec-press
-
-     press/logos
 
 .. toctree::
    :maxdepth: 1
    :caption: Support
    :name: sec-support-contact
 
+   press/logos
    support/contact
    support/acknowledgment
 
