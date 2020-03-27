@@ -3,7 +3,7 @@ F1TENTH - Learn Documentation
 
 Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
 
-.. attention:: This is the documentation for the development (master) branch. Looking for the documentation of the current stable branch? `Have a look here <https://f1tenth-coursekit.readthedocs.io/en/stable/>`_.
+.. tip:: This is the documentation for the stable branch. Looking for the documentation of the current development branch? `Have a look here <https://f1tenth-coursekit.readthedocs.io/en/latest/>`_.
 
 
 
@@ -63,9 +63,10 @@ The main documentation for the site is organized into the following sections:
    :name: sec-assignments
 
    assignments/labs/index
-   assignments/final_project
-   assignments/races/index
    assignments/grading
+.. assignments/final_project
+   assignments/races/index
+   
 
 
 .. toctree::
