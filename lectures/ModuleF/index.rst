@@ -3,7 +3,7 @@
 
 Module F: Special Topics
 =======================================
-The sixth module is on special topics. We have some listed here but feel free to choose your own. 
+The sixth module is on special topics. We have some listed here but feel free to choose your topics. 
 
 
 .. toctree::

@@ -1,11 +1,11 @@
 .. _doc_lecture11:
 
 
-Lecture 11 - Localization: Particle Filters
+Lecture 11 - Particle Filters
 =============================================
 
 **Overview:** 
-	This is the third installment in the Localization lectures. This lecture goes over Particles filters.
+	This is the third installment in the Localization lectures. Given inputs of laser scan data, a control input, and a map, we want to output a pose and some "particles". This lecture is divided into three parts: 1) going over the particle filter localization algorithm, 2) tuning the alrogithm, and 3) additional resources and a hands on tutorial. Expect a dense but extremely informative lecture.
 
 **Topics Covered:**
 	-	Particle filters

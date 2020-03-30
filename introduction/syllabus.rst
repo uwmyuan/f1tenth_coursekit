@@ -18,6 +18,8 @@ There are 4 main components of this course:
 .. tip:: Students should be grouped in teams of 3-4 with each member carrying different skills. Team formation occurs in :ref:`Lecture 5 <doc_lecture05>`.
 
 
+`F1TENTH Syllabus <https://docs.google.com/spreadsheets/d/1oIPbtpjWKTG4nbD8yKZgBv3jb8zLKMQ8hOJTNqJrn-4/edit?usp=sharing>`_
+
 .. raw:: html
 
     <iframe width="650" height="1000" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZfCFmMSZpc5-ChvYA_J2xg_euXjU3Du0MjRwhivxSe9TMqpv0yOp_lt74RCyA0rPjkQkP4qh6n35g/pubhtml?widget=true&amp;headers=false" frameborder="0" allowfullscreen></iframe>
