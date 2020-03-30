@@ -4,7 +4,11 @@
 Lecture 7 - Race Prep
 =============================================
 
-This lecture is open office hours.
+This lecture is open office hours in preparation for the first race.
+
+.. image:: img/car02.gif
+	:align: center
+	:width: 300px
 
 ..
 	**Overview:** 

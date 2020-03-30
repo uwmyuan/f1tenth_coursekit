@@ -5,7 +5,12 @@ Lecture 8 - Race Day 1
 ===========================================================================
 
 **Overview:** 
-	Race day! 
+	First race of the semester!! See :ref:`Race 1 <doc_race1>` for more information on how to setup and evaluate the race.
+
+.. image:: img/car03.gif
+	:align: center
+	:width: 300px
+
 
 ..
 	**Topics Covered:**
