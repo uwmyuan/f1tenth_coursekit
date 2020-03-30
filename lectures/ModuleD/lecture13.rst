@@ -5,7 +5,7 @@ Lecture 13 - Pure Pursuit
 ===========================
 
 **Overview:** 
-	This lecture goes over pure pursuit. 
+	This lecture goes over the control stack of an autonomous vehicle and how it can do path planning via the pure pursuit algorithm. The vehicle is given a sequence of waypoints to follow, how does it plan a path in order to follow these waypoints? Similar to the particle filter algorith, pure pursuit also requires parameter tuning. We will go over this during the lecture.
 
 **Topics Covered:**
 	-	Pure pursuit
@@ -27,5 +27,6 @@ Lecture 13 - Pure Pursuit
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-	**Links to additional resources:**
-		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+**Links to additional resources:**
+	- `Implementation of the Pure Pursuit Path Tracking Algorithm  <https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf>`_
+	- `Automatic Steering Methods for Autonomous Automobile Path Tracking <https://www.ri.cmu.edu/pub_files/2009/2/Automatic_Steering_Methods_for_Autonomous_Automobile_Path_Tracking.pdf>`_

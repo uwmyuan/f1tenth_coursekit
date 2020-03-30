@@ -4,8 +4,18 @@
 Race 1
 ======================
 
-`Repo <https://github.com/f1tenth/f110_ros/tree/master/ros_lab>`_
+**Track:** You want to choose a track that is a closed loop. At Penn, we have the students race around the hallways in the Levine building. 
 
-**Goals and Learning Outcomes**
-The goal of this lab assignment is to get you familiar with the various paradigms and uses of ROS and how it can be used to build robust robotic systems.
-ROS is a meta-operating system which simplifies inter-process communication between elements of a robot's perception planning and control systems.
+.. figure:: img/levine_track.jpg
+	:align: center
+	:width: 300px
+
+	The hallways on the second floor of the Levine buildling form a rectangular track.
+
+**Race Prep:** Teams should be given the track beforehand so they can practice on their own time.
+
+**Race Day:** View the `Race1 Rubric <https://docs.google.com/spreadsheets/d/1TVz_E3AGdg7vMDc3E5JCkMwy_1bnrjuo5goGEVQUQB8/edit#gid=0>`_ and :ref:`Grading <doc_grading>` to see how teams are evaluated. If time allows, there can be a practice session beforehand. If not, then have teams run their vehicle around the track and record each lap time and number of consecutive laps. There are two heats so teams will have two chances to complete the race. 
+
+.. image:: img/race02.gif
+	:align: center
+	:width: 250px

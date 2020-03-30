@@ -1,15 +1,16 @@
 .. _doc_lecture18:
 
 
-Lecture 18 - Vision: Detection and Pose Estimation II
+Lecture 18 - Extending Single View and YOLO
 ======================================================
 
 **Overview:** 
-	This lecture is the second lecture in the vision series.
+	This lecture builds on the previous lecture and moves to multi-view geometry. Without April tags attached to the back of another vehicle, we take advantage of multi-view geometry from stereo cameras in order to estimate the pose. The second half of this lecture deals with object detection. We will go over YOLO (you only look once), which is a CNN (convolutional neural network) used to classify objects.
 
 **Topics Covered:**
-	-	Vision
-	-	April Tags
+	- 	Multi-view geometry
+	-	YOLO
+	-	Object detection
 
 **Associated Assignment:** 
 	* :ref:`Lab 8: Perception and Planning <doc_lab8>`
@@ -30,5 +31,6 @@ Lecture 18 - Vision: Detection and Pose Estimation II
 
 
 
-	**Links to additional resources:**
-		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+**Links to additional resources:**
+	- `YOLOv3: An Incremental Improvement <https://pjreddie.com/media/files/papers/YOLOv3.pdf?source=post_page--------------------------->`_
+	- `Darknet: Open Source Neural Networks in C <https://pjreddie.com/darknet/>`_

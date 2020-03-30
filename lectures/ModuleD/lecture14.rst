@@ -1,15 +1,17 @@
 .. _doc_lecture14:
 
 
-Lecture 14 - Motion Planning: RRT
-===================================
+Lecture 14 - Rapidly-exploring Random Tree (RRT)
+====================================================
 
 **Overview:** 
-	This lecture goes over different motion planning methods.
+	This lecture goes over a more complex path planning algorithm. It takes into account obstacle avoidance when planning a path from the vehicle's current position to the desired goal position. We will go over different graph/tree search algorithms such as best first search, A*, and Dijkstra's.
 
 **Topics Covered:**
-	-	Motion planning
+	-	Occupancy grids
 	-	RRT
+	-	Search algorithms
+	-	A*, Dijkstra's, BFS
 
 **Associated Assignment:** 
 	* :ref:`Lab 7: Motion Planning (RRT) <doc_lab7>`
@@ -28,5 +30,6 @@ Lecture 14 - Motion Planning: RRT
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-	**Links to additional resources:**
-		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+**Links to additional resources:**
+	- `Sampling-based Algorithms for Optimal Motion Planning <https://arxiv.org/pdf/1105.1186.pdf>`_
+		- Sections 3.1 and 3.2, and Algorithms 3, 3.3, and 6
