@@ -3,9 +3,6 @@
 
 Lecture 4 - Laplace Domain Dynamics & PID
 ===========================================
-
-.. important:: KIM WORK ON THIS AND ONWARDS
-
 **Overview:** 
 	We command the 
 
