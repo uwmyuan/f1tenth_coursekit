@@ -1,15 +1,16 @@
-F1TENTH - Course Documentation - *stable branch*
+F1TENTH - Course Documentation 
 ================================================
 
 Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
 
-.. image:: img/overview2.png
-  :align: center
-
 .. important::
   
-  #. If you want to immediately start learning how to utilize the F1TENTH Autonomous Vehicle System in a weekend, head over to :ref:`Crash Course <doc_crashcourse_intro>`.
+  #. If you want to immediately start learning how to utilize the F1TENTH Autonomous Vehicle System in less than a month, head over to :ref:`Crash Course <doc_crashcourse_intro>`.
   #. If you want to get to all the nitty gritty details and learn more about the F1TENTH Autonomous Vehicle System in depth, head over to :ref:`Full Course Overview <doc_overview>`.
+
+
+.. image:: img/overview2.png
+  :align: center
 
 
 .. note:: F1TENTH is an open source project developed by a community of

@@ -1,13 +1,13 @@
 .. _doc_session2_tutorials:
 
-Tutorials
+Tutorial
 ----------------
 .. note:: 
   You should have Ubuntu and ROS already installed on your **Pit/Host** laptop and the lidar should already be set up. If you do not, see the `Build Page <https://f1tenth.github.io/build.html>`_ and go through **System Configuration > 1. Pit/Host Setup**. 
 
-These videos use many ROS commands. It is also highly recommend that you further your knowledge by going through the `Beginner ROS Tutorials <http://wiki.ros.org/ROS/Tutorials#Beginner_Level>`_.
+This tutorial goes over PID control. It will be useful for the lab in the next section.
 
-1. Distance Finder and PID Control
+Distance Finder and PID Control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Apply what you have learned to use LiDAR to make the car travel parallel to a wall
 

@@ -3,8 +3,6 @@
 
 Lab 3 - Scan Matching
 ======================
-.. note:: This is an **GROUP** assignment.
-
 .. tip:: Before starting this lab, review the lectures on **Scan Matching** to ensure you are familiar with the material.
 
 | **Goals:**

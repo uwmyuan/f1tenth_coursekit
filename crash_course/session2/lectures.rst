@@ -1,10 +1,11 @@
 .. _doc_session2_lectures:
 
-
-
 Lectures
 ------------
-The slide deck for this session is presented over 3 videos. Scroll all the way to the bottom of this page to view the slide deck.
+The slide deck for this session is presented over 3 videos. Scroll to the bottom of the page to view the slide deck. 
+
+.. note:: 
+	These videos are a bit outdated. We no longer use an IMU on the vehicle, however the concepts for localization using the lidar still apply.
 
 1. Sensors
 ^^^^^^^^^^^^^^^^^^^

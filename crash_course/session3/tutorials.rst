@@ -4,7 +4,7 @@
 
 Tutorials
 ----------------
-.. note:: 
+.. attention:: 
   You should have Ubuntu and ROS already installed on your **Pit/Host** laptop. If you do not, see the `Build Page <https://f1tenth.github.io/build.html>`_ and go through **System Configuration > 1. Pit/Host Setup**. 
 
 These videos use many ROS commands. It is also highly recommend that you further your knowledge by going through the `Beginner ROS Tutorials <http://wiki.ros.org/ROS/Tutorials#Beginner_Level>`_.

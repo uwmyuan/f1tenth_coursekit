@@ -26,6 +26,7 @@ The sections below have information for each lab.
    lab6
    lab7
    lab8
+   lab9
    solutions
 
 .. image:: img/lab02.gif

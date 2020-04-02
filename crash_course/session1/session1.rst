@@ -4,10 +4,10 @@
 Session 1
 ==================
 
-.. note::
-  We assume you already have Ubuntu and ROS running on your **Pit/Host** laptop.
+.. attention::
+  We assume you already have Ubuntu and ROS running on your **Pit/Host** laptop. If not, then you must go through `Getting Started > System Configuration > 1. Pit/Host Setup <https://f1tenth.github.io/build.html>`_.
 
-In this session, you will learn how to use ROS, the Robot Operating System. This session is sequential and builds on the sections before it so you must go through each section in order.
+In this session, you will learn how to use ROS, the Robot Operating System. This session is sequential and builds on the sections before it so you must go through each section below in order.
 
 .. toctree::
    :maxdepth: 1

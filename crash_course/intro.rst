@@ -14,10 +14,9 @@ So you have a working F1TENTH vehicle, have a free weekend, and want to go from 
 
 **Difficulty Level:** Intermediate-Advanced
 
-**Approximate Time Investment:** 1 week or 3 weekends
+**Approximate Time Investment:** 3 weeks
 
 **Skills Required:** Some programming experience (C++ or Python is ideal)
-
 
 
 This crash course is divided into 3 sessions. Each session begins with lectures and ends with tutorials and a lab. After all, you will learn by doing and not just by watching.
