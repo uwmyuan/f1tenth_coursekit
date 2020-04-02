@@ -4,10 +4,10 @@
 Session 3
 ==================
 
-.. note::
-  We assume you already have Ubuntu and ROS running on your **Pit/Host** laptop. You should also have already gone through :ref:`Session 1 <doc_session1>` and :ref:`Session 2 <doc_session2>` of this Crash Course.
+.. attention::
+  We assume you already have Ubuntu and ROS running on your **Pit/Host** laptop. If not, then you must go through `Getting Started > System Configuration > 1. Pit/Host Setup <https://f1tenth.github.io/build.html>`_.You should also have already gone through :ref:`Session 1 <doc_session1>` and :ref:`Session 2 <doc_session2>` of this Crash Course.
 
-In this final session, you will learn how the vehicle localizes itself in its environment. This session is sequential and builds on the sections before it so you must go through each section in order (lecture then tutorials then lab).
+In this final session, you will learn how the vehicle localizes itself in its environment. This session is sequential and builds on the sections before it so you must go through each section below in order. 
 
 .. toctree::
    :maxdepth: 1
