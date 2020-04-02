@@ -1,11 +1,7 @@
-F1TENTH - Course Documentation - *master branch*
+F1TENTH - Course Documentation - *stable branch*
 ================================================
 
 Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
-
-.. attention:: This is the documentation for the development (master) branch. Looking for the documentation of the current stable branch? `Have a look here <https://f1tenth.github.io/code.html>`_.
-
-
 
 .. image:: img/overview2.png
   :align: center
