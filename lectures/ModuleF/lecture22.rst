@@ -1,19 +1,17 @@
 .. _doc_lecture22:
 
 
-Lectures 22-25 - Special Topics
+Lectures 22 - Moral Decision Making
 ======================================================
 
 **Overview:** 
-	These lectures are flexible. Here are some ideas:
+	This lecture is a class discussion on robot ethics. Students should come prepared to participate. 
 
-	- Special topics
+**Associated Assignment:** 
+	* :ref:`Lab 9: Robot Ethics <doc_lab1>`
 
-		- Moral Decision Making
-		- Reinforcement Learning
+**Slides:**
 
-	- Workshops
-	- Guest speakers
-	- Paper discussions
-	- Open office hours for race
-	- Practice sessions for race
+	.. raw:: html
+
+		<iframe width="650" height="800" src="https://drive.google.com/file/d/1lB9E3dH6XnpP0QFM8nVHHGo09x9EWHId/preview" width="640" height="480"></iframe>
