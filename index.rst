@@ -3,10 +3,6 @@ F1TENTH - Course Documentation - *stable branch*
 
 Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
 
-.. tip:: This is the documentation for the stable branch. Looking for the documentation of the current development branch? `Have a look here <https://f1tenth-coursekit.readthedocs.io/en/latest/>`_.
-
-
-
 .. image:: img/overview2.png
   :align: center
 
