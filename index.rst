@@ -48,7 +48,7 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Course Overview
+   :caption: Overview
    :name: sec-introduction
 
    introduction/overview
@@ -56,14 +56,14 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Course Sessions
+   :caption: Modules
    :name: sec-course-sessions
 
    lectures/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Course Assignments
+   :caption: Assignments
    :name: sec-assignments
 
    assignments/labs/index
