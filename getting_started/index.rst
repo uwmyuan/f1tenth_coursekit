@@ -18,3 +18,6 @@ If you are looking for the old build/code page, you can find it `here <https://f
 
 * For document edits/suggestions/recommendations, submit an issue on the `GitHub repository <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
 * For specific build and/or setup questions, post to the `forum <http://f1tenth.org/forum.html>`_.
+
+.. image:: img/gs_01.gif
+  :align: center
