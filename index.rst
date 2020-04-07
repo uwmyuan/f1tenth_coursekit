@@ -3,10 +3,9 @@ F1TENTH - Course Documentation
 
 Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
 
-.. important::
+.. attention::
   
-  #. If you want to immediately start learning how to utilize the F1TENTH Autonomous Vehicle System in less than a month, head over to :ref:`Crash Course <doc_crashcourse_intro>`.
-  #. If you want to get to all the nitty gritty details and learn more about the F1TENTH Autonomous Vehicle System in depth, head over to :ref:`Full Course Overview <doc_overview>`.
+  See :ref:`Getting Started <doc_getting_started>` on instructions on where and how to begin.
 
 
 .. image:: img/overview2.png
@@ -29,19 +28,27 @@ in the top left corner.
 
 The main documentation for the site is organized into the following sections:
 
+..
+  .. toctree::
+     :maxdepth: 1
+     :caption: Crash Course
+     :name: sec-crash-course
+
+     crash_course/intro
+     crash_course/session1/session1
+     crash_course/session2/session2
+     crash_course/session3/session3
+
 .. toctree::
    :maxdepth: 1
-   :caption: Crash Course
-   :name: sec-crash-course
+   :caption: Getting Started
+   :name: sec-getting-started
 
-   crash_course/intro
-   crash_course/session1/session1
-   crash_course/session2/session2
-   crash_course/session3/session3
+   getting_started/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Full Course Overview
+   :caption: Course Overview
    :name: sec-introduction
 
    introduction/overview
@@ -49,14 +56,14 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Full Course Sessions
+   :caption: Course Sessions
    :name: sec-course-sessions
 
    lectures/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Full Course Assignments
+   :caption: Course Assignments
    :name: sec-assignments
 
    assignments/labs/index
