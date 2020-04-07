@@ -28,16 +28,6 @@ in the top left corner.
 
 The main documentation for the site is organized into the following sections:
 
-..
-  .. toctree::
-     :maxdepth: 1
-     :caption: Crash Course
-     :name: sec-crash-course
-
-     crash_course/intro
-     crash_course/session1/session1
-     crash_course/session2/session2
-     crash_course/session3/session3
 
 .. toctree::
    :maxdepth: 1
