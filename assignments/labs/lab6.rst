@@ -3,9 +3,7 @@
 
 Lab 6 - Pure Pursuit
 ======================
-.. note:: This is a **GROUP** assignment and is part of :ref:`Race 2 <doc_race2>`.
-
-.. tip:: Before starting this lab, review the lectures on **Pure Pursuit** to ensure you are familiar with the material.
+.. tip:: Before starting this lab, review :ref:`Lecture 13 <doc_lecture13>` to ensure you are familiar with the material.
 
 | **Goals:**
 | The objective of this lab is to give you working experience with a powerful SLAM package, Cartographer, and with a basic yet well-behaved trajectory planner: the Pure Pursuit algorithm.

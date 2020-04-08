@@ -22,17 +22,12 @@ Here, you will learn how to utilize your F1TENTH vehicle to its fullest potentia
           Submit an issue on the `GitHub repository
           <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
 
-The table of contents below and in the sidebar should let you easily access the
-documentation for your topic of interest. You can also use the search function
-in the top left corner.
-
-The main documentation for the site is organized into the following sections:
-
 
 .. toctree::
    :maxdepth: 1
    :caption: Getting Started
    :name: sec-getting-started
+   :hidden:
 
    getting_started/index
 
@@ -40,21 +35,31 @@ The main documentation for the site is organized into the following sections:
    :maxdepth: 1
    :caption: Overview
    :name: sec-introduction
+   :hidden:
 
    introduction/overview
    introduction/syllabus
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Modules
-   :name: sec-course-sessions
+   :name: sec-course-modules
+   :hidden:
 
+   lectures/ModuleA/index
+   lectures/ModuleB/index
+   lectures/ModuleC/index
+   lectures/ModuleD/index
+   lectures/ModuleE/index
+   lectures/ModuleF/index
+   lectures/ModuleG/index
    lectures/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Assignments
    :name: sec-assignments
+   :hidden:
 
    assignments/labs/index
    assignments/races/index
@@ -67,6 +72,7 @@ The main documentation for the site is organized into the following sections:
    :maxdepth: 1
    :caption: Support
    :name: sec-support-contact
+   :hidden:
 
    press/logos
    support/contact

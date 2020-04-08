@@ -3,9 +3,8 @@
 
 Lab 7 - Motion Planning (RRT)
 =================================
-.. note:: This is a **GROUP** assignment.
 
-.. tip:: Before starting this lab, review the lectures on **RRT** to ensure you are familiar with the material.
+.. tip:: Before starting this lab, review :ref:`Lecture 14 <doc_lecture14>` to ensure you are familiar with the material.
 
 | **Goals:**
 | The goal of this lab is to provide you with tools that will help you in a head-to-head race on a race track. After finishing this lab, your car should be able to do something like `this <https://www.youtube.com/watch?v=llHCRqwIllM>`_.
