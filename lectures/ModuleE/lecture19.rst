@@ -11,8 +11,8 @@ Lecture 19 - Project Proposal
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSwua0VDZCSV61LM86jGPIZvSbPpj46TzW9VwlkTGLNNCIPJKHCgg1bpbhwpwpnewP6qXcCfKwVAglX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-'
+		<iframe width="700" height="500"  src="https://docs.google.com/presentation/d/e/2PACX-1vTwJ1p2h6dJilU3DCdkGv49EEWx2ENHJ57ZT6lfrV6KmnRNyqfbY2Jmn5PFx6zQo0WBdwKWjDZ7Ov7d/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 **Associated Assignment:** 
 
 	* :ref:`Lab 9: Robot Ethics <doc_lab9>` released
