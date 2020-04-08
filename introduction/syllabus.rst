@@ -15,11 +15,12 @@ There are 4 main components of this course:
 
 #. **Final Project:** The final project gives students an opportunity to propose a problem and try to solve it using the F1TENTH Autonomous Vehicle System.
 
-.. tip:: Students should be grouped in teams of 3-4 with each member carrying different skills. Team formation occurs in :ref:`Lecture 5 <doc_lecture05>`.
+Students should be grouped in teams of 3-4 with each member carrying different skills. Team formation occurs in :ref:`Lecture 5 <doc_lecture05>`.
 
 
-`F1TENTH Syllabus <https://docs.google.com/spreadsheets/d/1oIPbtpjWKTG4nbD8yKZgBv3jb8zLKMQ8hOJTNqJrn-4/edit?usp=sharing>`_
+| `F1TENTH Syllabus <https://docs.google.com/spreadsheets/d/1oIPbtpjWKTG4nbD8yKZgBv3jb8zLKMQ8hOJTNqJrn-4/edit?usp=sharing>`_
+| `Sample Class Description/Syllabus <https://drive.google.com/drive/u/1/folders/1NfM0pHKuaDco5mQCmiq1D5856Zb8Vamm>`_
 
-.. raw:: html
-
-    <iframe width="650" height="1000" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZfCFmMSZpc5-ChvYA_J2xg_euXjU3Du0MjRwhivxSe9TMqpv0yOp_lt74RCyA0rPjkQkP4qh6n35g/pubhtml?widget=true&amp;headers=false" frameborder="0" allowfullscreen></iframe>
+.. image:: img/syllabus.png
+   :target: https://docs.google.com/spreadsheets/d/1oIPbtpjWKTG4nbD8yKZgBv3jb8zLKMQ8hOJTNqJrn-4/edit#gid=1354352829
+   :align: center

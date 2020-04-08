@@ -3,9 +3,8 @@
 
 Lab 8 - Perception and Planning
 =================================
-.. note:: This is a **GROUP** assignment.
 
-.. tip:: Before starting this lab, review the lectures  on **Vision** to ensure you are familiar with the material.
+.. tip:: Before starting this lab, review the :ref:`Lecture 17 <doc_lecture17>` and :ref:`Lecture 18 <doc_lecture18>` to ensure you are familiar with the material.
 
 | **Goals:**
 | Most racing series feature multiple vehicles competing simultaneously on a single track. As such, safely overtaking and navigating in the presence of other vehicles is paramount to performing well. Since the strategy and decisions of of other vehicles cannot be known ahead of time and may, in fact, be stochastic it is necessary for your car to react to new constraints imposed by other vehicles online. Thus, the goal of this lab is to track and predict the pose of an opponent vehicle.

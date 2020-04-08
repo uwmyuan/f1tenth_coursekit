@@ -1,6 +1,6 @@
 .. _doc_getting_started:
 
-How to Start
+Start Here!
 ================
 There is enough material for a full semester course, however if you have a limited amount of time, here are some suggestions:
 
@@ -11,13 +11,10 @@ There is enough material for a full semester course, however if you have a limit
 #. **15 Weeks (~ 1 Semester)** - Go through all of the :ref:`Lectures <doc_lecture_intro>` and complete all of the :ref:`Labs <doc_labs_intro>`. This is the most comprehensive learning experience.
 
 
-.. note::
-  This documentation page does not contain any build or software instructions. See the `Build Page <http://f1tenth.org/build.html>`_ for that information.
+This documentation page does not contain any build or software instructions. See the `Build Page <http://f1tenth.org/build.html>`_ for that information.
 
 If you are looking for the old build/code page, you can find it `here <https://f1tenth.github.io/build-old.html>`_. Please note that we no longer support any of this material and the majority of the content is outdated.
 
-* For document edits/suggestions/recommendations, submit an issue on the `GitHub repository <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
-* For specific build and/or setup questions, post to the `forum <http://f1tenth.org/forum.html>`_.
-
-.. image:: img/gs_01.gif
+.. image:: img/gs_02.gif
   :align: center
+  :width: 250px

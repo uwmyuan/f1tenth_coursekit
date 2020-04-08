@@ -26,7 +26,7 @@ Lecture 1 - Introduction to F1TENTH Autonomous Vehicle
 
 .. raw:: html
 
-	<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSFRBiaMrVQOg5djMs21V7ipa6ZFYOB_oD4issaDyJK5bejX2kSdeEINW4ZMi1ZHZ64Fuzh5kNV6cP0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSPlh5ZKgdB8EaODv3uaFB4uq7HjoJqKNbn01EuN_pzcE3ilpU6LaLA1U6hL-G8Vr3YF5v89NUVLdwP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 		

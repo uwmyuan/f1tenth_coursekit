@@ -11,7 +11,7 @@ Labs are where most of the learning occurs. This is when students have the chanc
 
 Labs 1-4 are **INDIVIDUAL** assignments and Labs 5-9 are **GROUP** assignments. Students should be placed in teams of 4 ideally with members that have different skill sets.
 
-.. tip:: Set up a `Piazza page <https://piazza.com/>`_ for the class so students can ask questions freely.
+**Tip:** Set up a `Piazza page <https://piazza.com/>`_ for the class so students can ask questions freely.
 
 
 The sections below have information for each lab.

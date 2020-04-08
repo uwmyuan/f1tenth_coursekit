@@ -4,6 +4,8 @@
 Final Project
 ================================
 
+.. tip:: Review :ref:`Lecture 19 <doc_lecture19>` for some sample project ideas.
+
 **Project Proposals:** 1-2 page, LaTeX document. Include references and a timeline/plan. See :ref:`Lecture 19 <doc_lecture19>` for project suggestions. Below is a sample proposal outline.
 
 	#. *Hypothesis:* We think that doing ___ will improve the performance of vehicle in head-to-head racing because ___.

@@ -3,9 +3,8 @@
 
 Lab 3 - Wall Following
 =======================
-.. note:: This is an **INDIVIDUAL** assignment.
 
-.. tip:: Before starting this lab, review the lectures on **PID and LiDAR** to ensure you are familiar with the material.
+.. tip:: Before starting this lab, review :ref:`Lecture 4 <doc_lecture04>` to ensure you are familiar with the material.
 
 | **Goals:**
 | In this lab, you will implement a PID (proportional integral derivative) controller to make the car drive parallel to the walls of a corridor at a fixed distance. At a high level, you will accomplish this by taking laser scan distances from the Hokuyo LiDAR, computing the required steering angle and speed (drive parameters), an publishing these to the VESC to drive the car. 
