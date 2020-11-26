@@ -3,16 +3,6 @@
 
 Introduction
 ==================
-
-.. raw:: html
-	
-	<iframe width="600" height="315" src="https://www.youtube.com/embed/vgEyvazwrU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. raw:: html
-	
-	<br>
-	<br>
-
 F1TENTH is a fun, fast-paced, and flexible course that teaches the foundations of **Autonomy**: 
 
 	* Perception
