@@ -2,10 +2,12 @@
 
 
 Lecture 8 - Race 1
+第8讲 - 测验1
 ===========================================================================
 
-**Overview:** 
+**Overview 概览:** 
 	First race of the semester!! See :ref:`Race 1 <doc_race1>` for more information on how to setup and evaluate the race.
+	这是学期中第一次测验！
 
 .. image:: img/car03.gif
 	:align: center
@@ -17,18 +19,18 @@ Lecture 8 - Race 1
 		-	Why use a simulator?
 		-	How to install and use the F1TENTH simulator
 
-	**Slides:**
+	**Slides 幻灯片:**
 
 		.. raw:: html
 
-			<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQSsYAq3LhzqIwjT_1i9a9UVjgAyrgtv5Xt23CYD77pBeALmecTOe14KC0n-W1F9ux9_oVss_QV-05o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+.. <iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQSsYAq3LhzqIwjT_1i9a9UVjgAyrgtv5Xt23CYD77pBeALmecTOe14KC0n-W1F9ux9_oVss_QV-05o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-	**Video:**
+	**Video 视频:**
 
 		.. raw:: html
 
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+..
 	**Links to additional resources:**
 		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
